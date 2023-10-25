@@ -1,0 +1,27 @@
+.tag-btn {
+  border-color: #f3aa4e;
+  width: 100px;
+  height: 35px;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+  border-radius: 8px;
+  border-style: solid;
+  background-color: transparent;
+  margin: 3px;
+}
+.spl {
+  border-color: #f3aa4e;
+  width: 100px;
+  height: 35px;
+  color: #ffffff;
+  cursor: pointer;
+  outline: none;
+  border-radius: 8px;
+  border-style: solid;
+  background-color: #f3aa4e;
+  margin: 3px;
+}
+li {
+  list-style-type: none;
+}
